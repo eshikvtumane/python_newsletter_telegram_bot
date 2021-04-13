@@ -2,7 +2,7 @@ from dataclasses import dataclass
 
 import pytest
 
-from bot.data_sources.source_types.source_types import RssSource, BaseSource
+from bot.data_sources.external_news_sources.source_types.source_types import RssSource, BaseSource
 
 
 @dataclass

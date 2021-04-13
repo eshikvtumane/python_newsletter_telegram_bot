@@ -1,6 +1,6 @@
 from typing import Dict, List, Any
 
-from bot.data_sources.source_types.dispatch import DataSourceSingleDispatch
+from bot.data_sources.external_news_sources.source_types.dispatch import DataSourceSingleDispatch
 from bot.exceptions import BotValidationSourceIdentifiersError
 
 
