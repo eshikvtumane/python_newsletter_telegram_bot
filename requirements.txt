@@ -1,5 +1,6 @@
 aiohttp==3.7.4
 feedparser==6.0.2
 requests==2.25.1
+pymongo==3.11.3
 pytest==6.2.3
 pytest-socket==0.4.0
